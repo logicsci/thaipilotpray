@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thai Pilot Pray</string>
+    <string name="action_settings">Settings</string>
+    <string name="indexhead">สารบัญบทสวดมนต์</string>
+    <string name="aboutstr">อนุโมทนาบุญ</string>
+	<string name="txt_credit1">จัดทำเพื่อเป็นธรรมทาน ท่านใดต้องการร่วมบุญ</string>
+	<string name="txt_credit2">สามารถเผยแพร่ ได้ตามกำลังศรัทธา</string>
+	<string name="txt_credit3">โดยไม่มีลิขสิทธิ์ใดๆ เกี่ยวกับโปรแกรมทั้งสิ้น </string>
+	<string name="sendstr">ร่วมเผยแพร่</string>
+	
+</resources>
